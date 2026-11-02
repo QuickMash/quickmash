@@ -25,4 +25,4 @@ I love everything related to 📊 **Servers**, 🐧 **Linux**, and 💻 **Comput
 ---
 
 ### 📊 GitHub Stats
-![QuickMash's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuickMash&show_icons=true&theme=merko)
+![QuickMash's GitHub stats](https://github-stats-extended.vercel.app/api?username=QuickMash&show_icons=true&theme=merko)
